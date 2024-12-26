@@ -1,33 +1,47 @@
-# CSS-Color-Markers
+# **CSS Color Markers**
 
-Learn CSS By Building A Set Colored Markers
+## **Project Overview**
 
-This website was built using Free Code Camp instructions: Learn CSS By Building A Set Colored Markers
+#### This Project Is A **Colored Markers**, Developed As Part of The FreeCodeCamp Curriculum. 
 
-Section: Responsive Web Design
+#### The Primary Goal Is Learn CSS Colors By Building A Set of Colored Markers
 
-Course Name: Learn CSS By Building A Set Colored Markers
+## **Course Details**
 
-Deatils: Selecting the correct colors for your webpage can greatly improve the aesthetic appeal to your readers.
++ **Course Section**: Responsive Web Design.
+  
++ **Project Name**:  Colored Markers Webpage.
+  
++ This Site Was Built Using **[Free Code Camp](https://www.freecodecamp.org/).**
+  
++ This Project Is One of The **Required Tasks** To Earn The Certification In Responsive Web Design.
 
-In this course, you'll build a set of colored markers. You'll learn different ways to set color values and how to pair colors with each other.
+## **Purpose**
 
-WebSite Link:
+Selecting The Correct Colors For Your Webpage Can Greatly Improve The Aesthetic Appeal To Your Readers.  
 
-https://www.freecodecamp.org/
+In This Course, You'll Build A Set Of Colored Markers. 
 
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-This WebSite or Project Was Built Using The Instructions of The Free Code Camp  WebSite.
-
-Therefore, All Rights In This WebSite or Project Belong To The Free Code Camp Site, A Free Educational Site That Contains Many Projects.
-
-I Am Only Reviewing The Project After Building It From Their Site, So The Project Does Not Belong To Me.
-
-I Would Like To thank The Educational Website Free Code Camp For Teaching Me By Providing Projects , Instructions , And Part of The Codes
+You'll Learn Different Ways To Set Color Values And How To Pair Colors With Each Other.
 
 
+## **Acknowledgment**
+
+This Project Was Created Following The Instructions Provided By **FreeCodeCamp**.
+
+**All rights** To This Project And Its Related Materials Belong To **FreeCodeCamp**, A Free Educational Platform Offering Structured Courses And Hands-on Projects.
+
+I Am Showcasing This Project As Part of My Learning Journey, Completed Based on FreeCodeCamp's Resources And Guidance.
+
+A Big Thank You To **FreeCodeCamp** For Their Well-Structured Curriculum, Projects, And Partially Provided Code Snippets That Made This Project Possible.
+
+## **Special Thanks**
+
+I Would Also Like To Extend **My Gratitude** To The Following Channels For Their Guidance In Writing The Code:
+
+**[@codeManS](https://www.youtube.com/@codeManS)**
+
+**[@landonschlangen](https://www.youtube.com/@landonschlangen)**
+
+These Resources Provided Valuable Insights And Helped Me Refine My Coding Skills.
 
